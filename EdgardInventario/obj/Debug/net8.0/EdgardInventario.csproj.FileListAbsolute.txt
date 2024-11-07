@@ -1,0 +1,14 @@
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\bin\Debug\net8.0\EdgardInventario.exe
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\bin\Debug\net8.0\EdgardInventario.deps.json
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\bin\Debug\net8.0\EdgardInventario.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\bin\Debug\net8.0\EdgardInventario.dll
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\bin\Debug\net8.0\EdgardInventario.pdb
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.dll
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\refint\EdgardInventario.dll
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.pdb
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\EdgardInventario.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\EdgardInventario\EdgardInventario\obj\Debug\net8.0\ref\EdgardInventario.dll
